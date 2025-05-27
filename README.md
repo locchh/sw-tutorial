@@ -10,6 +10,15 @@
 
 - [Spring Framework Reference](https://docs.spring.io/spring-framework/reference/) - Official Spring Framework documentation
 
+- [Baeldung - Graphs Tutorial](https://www.baeldung.com/cs/graphs-series)
+
+- [Baeldung - Networking](https://www.baeldung.com/cs/category/networking)
+
+- [Baeldung - Security](https://www.baeldung.com/cs/category/Security)
+
+- [Baeldung - Probability & Statistics](https://www.baeldung.com/cs/tag/probability-and-statistics)
+
+
 ## Data Structures & Algorithms
 
 - [Java Data Structures & Algorithms Specialization](https://www.coursera.org/specializations/codio-java-dsa) - Hands-on course for mastering DSA with Java
