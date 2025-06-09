@@ -18,12 +18,13 @@
 
 - [Baeldung - Probability & Statistics](https://www.baeldung.com/cs/tag/probability-and-statistics)
 
-
 ## Data Structures & Algorithms
 
 - [Java Data Structures & Algorithms Specialization](https://www.coursera.org/specializations/codio-java-dsa) - Hands-on course for mastering DSA with Java
 
-## MLOps, LLMOps, Explainable AI
+## DevOps, MLOps, LLMOps, Explainable AI
+
+- [DevOps Specialization](https://www.coursera.org/professional-certificates/devops-and-software-engineering) - Learn DevOps
 
 - [MLOps Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke) - Learn Machine Learning Operations
 
