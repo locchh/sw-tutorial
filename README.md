@@ -30,8 +30,6 @@
 
 - [LLMOps Specialization](https://www.coursera.org/specializations/large-language-model-operations) - Large Language Model Operations
 
-- [Explainable AI (XAI) Specialization](https://www.coursera.org/specializations/explainable-artificial-intelligence-xai) - Making AI decisions interpretable
-
 ## Rust Programming
 
 - [Rust Programming Specialization](https://www.coursera.org/specializations/rust-programming) - Master systems programming with Rust
@@ -39,3 +37,7 @@
 ## ML Graphs
 
 - [Stanford CS224W](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) - Machine Learning with Graphs
+
+## AI
+
+- [Explainable AI (XAI) Specialization](https://www.coursera.org/specializations/explainable-artificial-intelligence-xai) - Making AI decisions interpretable
