@@ -2,7 +2,7 @@
 
 ## CodeBase
 
-1. What is the overall purpose and functionality of this codebase?
+1. What is the overall purpose and functionality (features) of this codebase?
 
 2. What is the architecture and high-level structure of the codebase?
 
@@ -12,9 +12,9 @@
 
 5. What technologies, frameworks, and languages are used?
 
-6. How is the codebase tested and what is the test coverage?
+6. How to run the codebase locally?
 
-7. How to run the codebase locally?
+7. How is the codebase tested and what is the test coverage?
 
 8. What are the data models and how is data flowing through the system?
 
