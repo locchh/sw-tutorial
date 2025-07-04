@@ -44,39 +44,40 @@
 
 10. How is data shared and synchronized across platform components?
 
-## Universal Learning Formula (Languages, Frameworks, and More)
 
-### Rapid Learning Framework
+# Universal Learning Formula (Languages, Frameworks, and More)
 
-1. **Start with the fundamentals**
-   - Master the core concepts before diving into advanced topics
-   - Understand the problem the language/framework is designed to solve
-   - Learn the mental models and paradigms (OOP, functional, reactive, etc.)
+## Rapid Learning Framework
 
-2. **Follow the 80/20 principle**
-   - Identify the 20% of features that are used 80% of the time
-   - Focus on high-leverage concepts first (data structures, algorithms, design patterns)
-   - Defer niche or rarely-used features until needed
-
-3. **Build projects incrementally**
-   - Start with small, achievable projects that use core functionality
-   - Gradually increase complexity as your understanding grows
-   - Recreate parts of applications you admire to understand implementation details
-
-4. **Practice deliberate learning**
-   - Set specific learning goals with measurable outcomes
-   - Time-box your learning sessions (Pomodoro technique)
-   - Regularly review and consolidate what you've learned
-
-5. **Develop a testing mindset**
-   - Learn how to write tests for the technology
-   - Understand testing frameworks and methodologies
-   - Practice test-driven development when appropriate
-
-6. **Use the documentation effectively**
-   - Begin with official tutorials and getting started guides
-   - Reference the API documentation frequently
-   - Study the architecture and design philosophy sections
+>1. **Start with the fundamentals**
+>   - Master the core concepts before diving into advanced topics
+>   - Understand the problem the language/framework is designed to solve
+>   - Learn the mental models and paradigms (OOP, functional, reactive, etc.)
+>
+>2. **Follow the 80/20 principle**
+>   - Identify the 20% of features that are used 80% of the time
+>   - Focus on high-leverage concepts first (data structures, algorithms, design patterns)
+>   - Defer niche or rarely-used features until needed
+>
+>3. **Build projects incrementally**
+>   - Start with small, achievable projects that use core functionality
+>   - Gradually increase complexity as your understanding grows
+>   - Recreate parts of applications you admire to understand implementation details
+>
+>4. **Practice deliberate learning**
+>   - Set specific learning goals with measurable outcomes
+>   - Time-box your learning sessions (Pomodoro technique)
+>   - Regularly review and consolidate what you've learned
+>
+>5. **Develop a testing mindset**
+>   - Learn how to write tests for the technology
+>   - Understand testing frameworks and methodologies
+>   - Practice test-driven development when appropriate
+>
+>6. **Use the documentation effectively**
+>   - Begin with official tutorials and getting started guides
+>   - Reference the API documentation frequently
+>   - Study the architecture and design philosophy sections
 
 7. **Learn from the community**
    - Analyze open-source projects that use the technology
