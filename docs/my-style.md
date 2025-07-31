@@ -75,8 +75,6 @@ My folder name style reflects the following qualities:
 
 I follow the same principles in file naming as I do with folders: **short**, **purpose-driven**, and easy to grep or autocomplete.
 
-### 🔤 Naming Style
-
 - **Lowercase with underscores** for readability: `data_loader.py`, `train_model.py`
 - Avoid spaces, camelCase, or vague names like `misc.py`
 - Prefix files for grouping, e.g., `utils_`, `cfg_`, `test_`
