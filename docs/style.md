@@ -65,7 +65,7 @@ My folder name style reflects the following qualities:
 | `dbf` | Flat DB-style files   |
 | `mdl` | Models or weights     |
 
-### Shortcodes
+### 🧩 Shortcodes
 
 * `locch/` — your personal sandbox
 * `zsrc/` — experimental source code
