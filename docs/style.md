@@ -4,8 +4,8 @@
 
 - `locch`
 - `src`, `utils`, `tests`, `data`
-- `docs`, `assets`
-- `tmp`, `snap`, `notes`, `notebooks`
+- `docs`, `assets`, `pics`
+- `tmp`, `snap`, `notes`, `notebooks`, `misc`
 
 My folder name style reflects the following qualities:
 - **Intentional but Flexible Structure**: I separate core logic, data, documentation, and experiments into clearly defined spaces while allowing room for exploration.
